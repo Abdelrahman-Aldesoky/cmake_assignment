@@ -1,2 +1,0 @@
-   text	   data	    bss	    dec	    hex	filename
-    804	      0	      0	    804	    324	snake_effect.elf
